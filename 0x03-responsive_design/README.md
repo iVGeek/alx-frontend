@@ -1,7 +1,6 @@
 Responsive design
 
-
-### Concept
+### Concepts:
 
 - HTML
 - CSS
